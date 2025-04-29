@@ -1,1 +1,1 @@
-# Weather
+# Weather  this is a weather application were i used the openweather api to be able to get weathers and temperature for different cities around the world. And also i used a simple html form where users can input city name
